@@ -1,2 +1,2 @@
 # AISweeper
-A bot that plays Minesweeper.
+A C#.NET bot that plays Minesweeper.
